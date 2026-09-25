@@ -1,0 +1,12 @@
+__pycache__/
+.pytest_cache/
+.venv/
+.env
+*.pyc
+*.pyo
+*.pyd
+.ruff_cache/
+.waf_factory_cache/
+frontend/node_modules/
+frontend/dist/
+frontend/.env.local
